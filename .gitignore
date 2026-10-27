@@ -1,0 +1,21 @@
+# Compiled C/C++ artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+# Debug and coverage files
+*.pdb
+*.ilk
+*.gcda
+*.gcno
+*.gcov
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
